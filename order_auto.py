@@ -21,7 +21,7 @@ from xlwings.constants import DeleteShiftDirection
 
 from selenium.common.exceptions import NoSuchElementException
 
-from win11toast import toast
+from win11toast import toast, notify
 
 
 # In[2]:
